@@ -1,3 +1,11 @@
+# Canvas Deadline Agent
+
+**🌐 Language / 语言： [🇬🇧 English](README.md) | [🇨🇳 简体中文](README.zh-CN.md)**
+
+---
+
+我真不想提心吊胆天天登 Canvas 了！
+
 ## 📥 Download / 下载
 
 **Windows Beta v1.2.0-beta.1**
