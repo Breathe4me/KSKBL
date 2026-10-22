@@ -34,7 +34,7 @@ AI设置
 ![AI](AI.png)
 
 手机提示
-![phone](phone.jpeg)
+![phone](phone.jpg)
 
 **当前版本：** v1.2.0-beta.1 · Windows 测试版
 
