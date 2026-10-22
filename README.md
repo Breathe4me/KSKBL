@@ -33,6 +33,9 @@ Open **Assets**, then download the `Setup.exe` installer.
 AI设置
 ![AI](AI.png)
 
+手机提示
+![phone](phone.jpeg)
+
 **当前版本：** v1.2.0-beta.1 · Windows 测试版
 
 > 这是独立开发的第三方软件，不是 Canvas 或任何大学的官方产品。软件不会替你正式提交作业，也不能保证读取所有 Quiz。
