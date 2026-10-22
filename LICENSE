@@ -1,0 +1,131 @@
+Canvas Deadline Agent Personal Learning License
+Version: 1.0-review-draft (2026-10-23)
+Public project attribution: Breathe4me
+
+REVIEW DRAFT — NOT EFFECTIVE
+
+This is a proposed custom source-available license for rights-holder and legal
+review. It grants no new permissions until the rights holder expressly approves
+and identifies an effective final version. Preparing or publishing this draft
+does not make its proposed permissions effective. Existing separate permissions,
+applicable statutory rights and independent third-party licenses are unaffected.
+The legal rights holder, ownership of covered material and licensing contact
+remain to be confirmed. Breathe4me is public attribution, not a verified legal
+identity or a representation of ownership of all included material.
+
+This is not an MIT, Apache or OSI-approved open-source license. The proposed
+terms below describe the intended personal-use and separate-authorization model.
+
+1. Scope and definitions
+
+"Licensor" means the rights holder to be identified in the final agreement.
+"Application" means only the original Canvas Deadline Agent code, interface
+assets and documentation that Licensor owns or is authorized to license. It
+excludes third-party software, course content, user data and third-party marks.
+
+"Personal Learning Use" means a natural person's own noncommercial study and
+learning. A student managing their own coursework at a school or university is
+a personal user. Enrollment alone does not authorize deployment by the school.
+
+"Institutional Use" includes managed deployment or operation for a school,
+class, university, nonprofit, public body or other organization. "Commercial
+Use" includes enterprise operations, resale, commercial hosting, paid services
+and using the Application to provide paid tutoring or other services.
+
+2. Proposed free personal-use permission
+
+Subject to an effective final agreement and compliance with its terms, Licensor
+proposes a nonexclusive, worldwide, royalty-free permission to run and inspect
+the Application, make private modifications and compile a personal copy solely
+for Personal Learning Use. No enrollment documents are required by this policy.
+This permission would cover application licensing only; it does not waive fees
+or terms imposed by Canvas-related services, AI providers or PushPlus.
+
+3. Institutional and commercial authorization
+
+Institutional and Commercial Use require separate prior written authorization.
+Nonprofits may apply for free authorization but have no automatic exemption.
+An inquiry, silence, payment without an agreed license, or public availability
+of source code does not constitute authorization. See COMMERCIAL_LICENSE.md.
+
+4. Copies, modifications and redistribution
+
+Retain applicable copyright, license and attribution notices in permitted
+copies. Clearly identify modifications and do not present an unofficial build
+as an official release. Permission for private modification and compilation
+does not grant permission to redistribute modified installers, portable builds,
+commercial bundles or hosted services. During Beta, no third-party permission
+to redistribute modified installers is granted by default.
+
+Additional rights to publish modified source or mirror unmodified binaries
+remain subject to express final approval; no such additional grant is made by
+this draft. Linking to an authorized official download is not hosting a copy.
+Nothing here restricts viewing, forking or other rights independently required
+by GitHub's applicable terms for content placed in a public repository. Those
+platform rights do not create an unrestricted institutional or commercial grant.
+
+5. Third-party materials
+
+Third-party materials retain their own licenses. This agreement neither
+relicenses them nor places a noncommercial restriction on rights their owners
+grant independently. Their applicable terms govern those materials in a
+conflict. Preserve their required notices, license texts and source availability.
+Consult THIRD_PARTY_NOTICES.md and the license/source materials supplied with
+the particular distribution; a notice alone does not prove redistribution rights.
+
+Any upstream-required modification, redistribution, reverse-engineering or
+library-debugging rights remain intact, including an applicable WebView2 SDK
+NOTICE exception. Applicable Microsoft distributable-code restrictions must
+also be satisfied. No permission to copy arbitrary Windows system files or
+claim Microsoft endorsement is granted. The final agreement must be checked
+against the exact upstream terms for the files actually distributed.
+
+6. Ownership, accounts and security
+
+No ownership, trademark rights or institutional endorsement is transferred.
+Use only accounts, tokens, local files and course data you are authorized to
+access. This license does not authorize access-control bypass or attacks on
+third-party systems. Good-faith, nondestructive inspection of lawfully obtained
+copies in an authorized isolated environment is within the proposed inspection
+permission; no third-party legal immunity is promised.
+
+External contributions require an explicit rights review and agreed terms
+before acceptance. Submitting a contribution does not automatically assign
+copyright or establish a right to license someone else's work.
+
+7. Data, external services and Beta limitations
+
+Read PRIVACY.md for data handling. The Application does not submit coursework
+automatically. Local completion is not Canvas-confirmed submission. Official
+Canvas records remain authoritative; complete deadline coverage, notification
+delivery and suitability for any course are not guaranteed. Third-party
+services have separate terms and charges. AI is optional and uses your own key.
+
+8. Proposed warranty and liability terms
+
+To the extent permitted by applicable law, the Application would be provided
+AS IS and AS AVAILABLE, without warranties of merchantability, fitness for a
+particular purpose or noninfringement. No maintenance, availability, support
+response time or future compatibility is promised absent a separate agreement.
+
+Any final limitation of liability, including treatment of missed deadlines,
+data loss and consequential loss, requires express approval and legal review.
+No monetary liability cap, indemnity or exclusion of non-excludable rights is
+established by this draft. Mandatory consumer protections and other rights that
+cannot lawfully be excluded remain unaffected.
+
+9. Finalization, prior rights and reserved decisions
+
+Before effectiveness, confirm the legal rights holder and ownership provenance,
+contact, final license identifier and date; resolve source-publication and
+binary-redistribution permissions, borderline paid/donation-supported use,
+termination and cure, patent treatment, governing law and dispute procedure;
+and approve warranty/liability wording and upstream contractual exceptions.
+No jurisdiction, compulsory arbitration or patent-retaliation policy is chosen.
+
+Termination must not revoke independent third-party rights or authorize deletion
+of user data. A later license must not silently replace permissions already
+granted for an earlier version. The review history and unresolved questions are
+documented in docs/LICENSE_SOURCE_AVAILABLE_DRAFT.md; neither draft grants an
+operative application license. Publishing source, approving this license and
+authorizing a public binary release are separate decisions.
