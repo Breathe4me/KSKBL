@@ -1,3 +1,16 @@
+## 📥 Download / 下载
+
+**Windows Beta v1.2.0-beta.1**
+
+[📥 Download KSKBL for Windows / 下载 Windows 版本](https://github.com/Breathe4me/KSKBL/releases/tag/v1.2.0-beta.1)
+
+Open **Assets**, then download the `Setup.exe` installer.
+
+展开 **Assets**，下载 `Setup.exe` 安装程序。
+
+> Beta software. Some Canvas quizzes may not be available through the API.
+> 测试版本，部分 Canvas 测验可能无法同步。
+
 # Canvas Deadline Agent
 
 **我不想再提心吊胆错过due了**
