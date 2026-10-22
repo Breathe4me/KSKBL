@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canvas-deadline-agent"
+version = "1.2.0"
+description = "Independent, local-first Canvas LMS deadline monitor for Windows"
+requires-python = ">=3.12"
+dependencies = ["requests==2.34.2", "tzdata==2026.5", "pypdf==6.21.1", "defusedxml==0.7.1", "pywebview==6.2.1; sys_platform == 'win32'", "pythonnet==3.2.1; sys_platform == 'win32'", "pywin32==312; sys_platform == 'win32'",
+    "winrt-runtime==3.2.1; sys_platform == 'win32'",
+    "winrt-Windows.Foundation==3.2.1; sys_platform == 'win32'",
+    "winrt-Windows.Foundation.Collections==3.2.1; sys_platform == 'win32'",
+    "winrt-Windows.Data.Xml.Dom==3.2.1; sys_platform == 'win32'",
+    "winrt-Windows.UI.Notifications==3.2.1; sys_platform == 'win32'"]
+
+[project.optional-dependencies]
+dev = ["pytest==9.1.1", "pytest-cov==7.1.0", "ruff==0.17.1", "pyinstaller==6.22.3", "pip-audit==2.10.1"]
+
+[project.scripts]
+canvas-deadline-agent = "canvas_agent.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "scripts"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 110
+target-version = "py312"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "S"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+"tests/*" = ["S101", "S105", "S106"]
+# Developer-only Git history scanner uses argument arrays, never a shell.
+"scripts/secret_scan.py" = ["S603", "S607"]
