@@ -1,0 +1,19 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'nonce-__NONCE__'; style-src 'unsafe-inline'; img-src data:; font-src 'none'; connect-src 'none'; object-src 'none'; frame-src 'none'; base-uri 'none'; form-action 'none';"><title>Canvas Deadline Agent</title><style>__CSS__</style></head><body>
+<div class="shell">
+<aside class="sidebar">
+  <div class="logo"><div class="logoicon">◈</div><div><div class="brand">Canvas Deadline<br>Agent</div><div class="subbrand">v1.2 · DESKTOP</div></div></div>
+  <div class="navcaption">WORKSPACE</div>
+  <button class="navitem active" data-nav="today"><span class="ico">◫</span><span>今日概览</span></button>
+  <button class="navitem" data-nav="assignments"><span class="ico">▤</span><span>所有作业</span><span class="count" id="pending-count">0</span></button>
+  <button class="navitem" data-nav="records"><span class="ico">☑</span><span>提交记录</span></button>
+  <div class="navcaption" style="margin-top:28px">PREFERENCES</div>
+  <button class="navitem" data-nav="notifications"><span class="ico">♧</span><span>微信提醒</span></button>
+  <button class="navitem" data-nav="settings"><span class="ico">⚙</span><span>设置</span></button>
+  <div class="sidebarfoot"><div><i class="statusdot"></i>本地工作台</div><div></div></div>
+</aside>
+<main class="app"><header class="top"><div><div class="eyebrow" id="eyebrow">星期四 · 今日工作台</div><h1 class="pagetitle" id="pagetitle">今天先做什么？</h1></div><div class="toptools"><span class="statuschip">◉ 演示数据 · 未同步</span><button class="iconbtn" title="提醒和设置" data-nav="settings">⚙</button></div></header><div id="page" class="content"></div><div class="footer">Canvas Deadline Agent · v1.2</div></main>
+</div>
+<div class="scrim" id="scrim"></div><aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="作业详情 / Assignment details" aria-hidden="true" inert></aside>
+<div class="overlay" id="overlay"><div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="确认与详情 / Confirmation and details"></div></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script nonce="__NONCE__">__JS__</script></body></html>
