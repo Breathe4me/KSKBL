@@ -4,8 +4,6 @@
 
 ---
 
-Tired of constantly checking Canvas because you're worried about missing a deadline?
-
 # Canvas Deadline Agent
 
 **Tired of constantly checking Canvas because you're worried about missing a deadline?**
