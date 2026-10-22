@@ -1,0 +1,18 @@
+Canvas Deadline Agent v1.2.0 - development candidate / Security Pending
+
+Independent tool, not affiliated with Canvas, Instructure or any university.
+Installs separately; earlier applications and their data are not overwritten.
+Settings: %LOCALAPPDATA%\CanvasDeadlineAgent-v1.2
+No administrator rights are requested. Uninstall retains local user data.
+
+Legacy import requires selecting a local backup explicitly; credentials are excluded.
+AI is optional, disabled by default, and requires your consent and personal API key.
+Core reminders work without AI. Local completion does not mean Canvas confirmed submission.
+PushPlus requires your own account, WeChat binding and platform identity requirements;
+quotas and fees may apply. API acceptance does not prove delivery.
+The computer must be awake and signed in for scheduled monitoring.
+
+Unsigned development candidate. Independent VM installation, security and real-account
+acceptance are still pending. Historical Avast SEC-01/SEC-03 remain unresolved.
+Keep security protection enabled. No public-release approval is implied.
+Project distribution license policy remains subject to separate review.

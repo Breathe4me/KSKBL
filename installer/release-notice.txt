@@ -1,0 +1,28 @@
+Canvas Deadline Agent v1.2.0-beta.1 -- LOCAL RELEASE CANDIDATE
+
+Beta software. This local candidate has NOT been approved for public distribution.
+The application license is a draft pending rights-holder confirmation and legal review.
+Third-party terms remain separate and are included in notices/licenses.
+
+This installer is made using RemObjects Pascal Script, created by Carlo Kok
+and RemObjects Software. https://github.com/remobjects/pascalscript
+The original license is included in notices/licenses/installer.
+
+Independent software; not affiliated with or endorsed by Instructure, Canvas,
+the University of Sydney or any other university.
+
+Requires Windows 11 x64, .NET Framework 4.8 and WebView2 Runtime 120 or newer.
+Python is included. WebView2 is not downloaded or installed automatically.
+
+Default mode is the real application with an empty profile, not synthetic QA.
+Enter your own Canvas credentials only in the application. AI and monitoring
+start disabled. No automatic submissions, test messages or paid AI calls occur.
+
+Canvas student API permissions and disabled Quiz endpoints may limit coverage.
+Local completion is not Canvas submission. Check official deadlines and records.
+AI is optional BYOK and providers may charge. PushPlus is a third-party service;
+request acceptance does not prove WeChat delivery. Keep security protection on.
+
+Installer/upgrade/uninstall GUI and real delivery/scheduling require manual QA.
+Updates keep the v1.2 user profile. Uninstall removes this profile's scheduled
+tasks and keeps settings, databases and DPAPI credentials. v1.1 stays separate.

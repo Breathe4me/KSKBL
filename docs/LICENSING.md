@@ -1,0 +1,5 @@
+# Source-available licensing review
+Breathe4me is the selected public attribution for an individual developer. It is not proof of complete copyright ownership. The complete proposed agreement is LICENSE_SOURCE_AVAILABLE_DRAFT.md and remains NOT EFFECTIVE / NO PUBLIC GRANT.
+The owner selected free student-personal/individual noncommercial learning; institution-wide deployment, enterprise, commercial hosting and paid services require separate permission. Nonprofits may request free authorization. Personal modification/compilation is permitted by the proposed scope; modified Beta installer redistribution is not granted by default.
+Public source forks/unmodified mirrors, final legal holder, contacts, patents, liability, governing law and cure periods are not silently decided. No external contributions are merged without clear permission.
+Third-party rights, source access and required debugging exceptions take precedence for their materials. Source availability is not an OSI open-source claim. The final license and publication remain separately approved decisions.
