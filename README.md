@@ -17,13 +17,21 @@ Open **Assets**, then download the `Setup.exe` installer.
 > Beta software. Some Canvas quizzes may not be available through the API.
 > 测试版本，部分 Canvas 测验可能无法同步。
 
-# Canvas Deadline Agent
-
 **我真不想提心吊胆天天登canvas了**
 
-Canvas Deadline Agent 是一款面向 Canvas LMS 用户的 Windows 桌面小工具。它可以整理已同步的课程作业、显示距离截止还有多久，并提供本地任务管理和可选的微信提醒。
+## 📸 Screenshots
 
-适合同时上多门课、不想每天逐个打开课程页面找作业的学生。
+绿色
+![green](greencanvas.png)
+
+粉色
+![pink](pinkcanvas.png)
+
+提醒设置
+![noticesettings](notice.png)
+
+AI设置
+![AI](AI.png)
 
 **当前版本：** v1.2.0-beta.1 · Windows 测试版
 
